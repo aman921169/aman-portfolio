@@ -29,6 +29,8 @@ jobs:
         run: npm ci
       - name: Build site
         run: npm run build
+      - name: Add custom domain file
+        run: cp CNAME dist/CNAME
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
