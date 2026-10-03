@@ -1,6 +1,6 @@
 # Aman Kaurav — personal portfolio
 
-A dark, technical personal site built with React + Vite. The UI direction takes cues from the resources Aman bookmarked: shadcn/ui, Magic UI, Aceternity UI and Spline.
+A dark, technical personal site built with React + Vite. The UI direction takes cues from the resources : shadcn/ui, Magic UI, Aceternity UI and Spline.
 
 ## Run
 
